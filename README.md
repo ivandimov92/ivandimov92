@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://github.com/jamescharlie94/jamescharlie94/blob/main/assets/happy%20coding.gif"  />
+  <img height="350" src="https://github.com/ivandimov92/ivandimov92/blob/main/assets/happy%20coding.gif"  />
 </div>
 
 ###
